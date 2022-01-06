@@ -1,3 +1,7 @@
+import time
+
+from colors import *
+
 def combsort(num):
     gap = len(num)
     swaps = True
